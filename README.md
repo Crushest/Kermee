@@ -1,21 +1,5 @@
-# co4fd4115a670e9f0faa21f37
+# You Laugh, You Drink (Game)
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Simple application that allows one to count the amount of times they've laughed so that when their turn is over they can save and take that many drinks. Then reset for next user. There is a red Hard Reset button that makes it appear as if the user has just opened the applications again. Planning on turning into chrome application.
 
 Happy Coding!
